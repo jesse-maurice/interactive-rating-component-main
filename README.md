@@ -1,4 +1,9 @@
 # Frontend Mentor - Interactive rating component
+![127 0 0 1_5500_index html (3)](https://user-images.githubusercontent.com/107750683/200116625-0446e721-ddc4-4d3a-86a6-cd049bc6b98a.png)
+![127 0 0 1_5500_index html (1)](https://user-images.githubusercontent.com/107750683/200116629-c23f24f6-7030-4759-9bf1-1c103934cf13.png)
+![127 0 0 1_5500_index html (2)](https://user-images.githubusercontent.com/107750683/200116633-a4ba1f80-0bc7-44ae-8f26-7f64fb7a402b.png)
+![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/107750683/200116634-02b9e803-7938-4180-893d-d9cc11bf2176.png)
+
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
